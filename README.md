@@ -55,8 +55,8 @@ I'm a software developer from the Philippines with experience building web appli
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julius%20Vincent%20Llavan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/juliusvincentllavan)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail)](mailto:juliusvllavan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julius%20Vincent%20Llavan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/julius-vincent-llavan/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliusvllavan@gmail.com)
 
 <!--
 **bmkhn/bmkhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

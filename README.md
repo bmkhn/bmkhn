@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Julius Vincent Llavan 👋</h1>
 
 <p align="center">
-  <strong>BSIT Graduate • Full-Stack Software Developer</strong>
+  <strong>BSIT Graduate • Software Developer</strong>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a software developer from the Philippines with experience building database-driven web applications through academic, internship, and personal projects. I primarily work with **Django**, **Laravel**, **PostgreSQL**, and **MySQL**, with an interest in backend development and scalable software systems.
+I'm a software developer from the Philippines with experience building web applications, information systems, and productivity tools. I enjoy designing practical software that solves real-world problems.
 
 ---
 
@@ -44,12 +44,12 @@ I'm a software developer from the Philippines with experience building database-
 ## 🚀 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| 🏛️ **Project Management Information System** | Django-based platform for managing university extension projects with semantic search and role-based access control. |
-| 👥 **Human Resource Information System** | Laravel-based HRIS developed during my internship with DepEd. |
-| 🦅 **Membership Management System** | Membership platform with RBAC, payment tracking, and administrative workflows. |
-| 📖 **Mnemosyne** | Chrome extension for organizing reading materials and saving quotes. |
-| ⏱️ **Sophrosyne** | Privacy-first Chrome extension for website usage tracking and productivity. |
+| --- | --- |
+| 🏛️ **[Project Management Information System](https://github.com/uesopmis-coder/UESO-PMIS)** | Django-based platform for managing university extension projects and workflows. |
+| 👥 **[Human Resource Information System](https://github.com/bmkhn/HRIS-DepEd-Laravel)** | Laravel-based system for managing employee records and HR processes. |
+| 🦅 **[Membership Management System](https://github.com/bmkhn/Eagles-Without-Borders)** | Web application for managing members, payments, and organizational workflows. |
+| 📖 **[Mnemosyne](https://github.com/bmkhn/Mnemosyne)** | Chrome extension for tracking reading progress and managing saved quotes. |
+| ⏱️ **[Sophrosyne](https://github.com/bmkhn/Sophrosyne)** | Chrome extension for website usage tracking and productivity management. |
 
 ---
 

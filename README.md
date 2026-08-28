@@ -48,8 +48,7 @@ I'm a software developer from the Philippines with experience building web appli
 | 🏛️ **[Project Management Information System](https://github.com/uesopmis-coder/UESO-PMIS)** | Django-based system for managing university extension projects and workflows. |
 | 👥 **[Human Resource Information System](https://github.com/bmkhn/HRIS-DepEd-Laravel)** | Laravel-based system for managing employee records and HR processes. |
 | 🦅 **[Membership Management System](https://github.com/bmkhn/Eagles-Without-Borders)** | Laravel-based system for managing members, payments, and organizational workflows. |
-| 📖 **[Mnemosyne](https://github.com/bmkhn/Mnemosyne)** | Chrome extension for tracking reading progress and managing saved quotes. |
-| ⏱️ **[Sophrosyne](https://github.com/bmkhn/Sophrosyne)** | Chrome extension for website usage tracking and productivity management. |
+| ⏱️ **[Sophrosyne](https://github.com/bmkhn/Sophrosyne)** | Chrome extension for website activity tracking, usage analytics, productivity management, data exporting, and distraction blocking. |
 
 ---
 

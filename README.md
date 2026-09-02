@@ -49,6 +49,7 @@ I'm a software developer from the Philippines with experience building web appli
 | 👥 **[Human Resource Information System](https://github.com/bmkhn/HRIS-DepEd-Laravel)** | Laravel-based system for managing employee records and HR processes. |
 | 🦅 **[Membership Management System](https://github.com/bmkhn/Eagles-Without-Borders)** | Laravel-based system for managing members, payments, and organizational workflows. |
 | ⏱️ **[Sophrosyne](https://github.com/bmkhn/Sophrosyne)** | Chrome extension for website tracking, usage analytics, data export, and distraction blocking. |
+| 🈳 **[Rikai](https://github.com/bmkhn/Rikai)** | Desktop app for Japanese manga OCR, screen capture, and instant English translation. |
 
 ---
 
